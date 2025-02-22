@@ -4,6 +4,7 @@ import socket  # noqa: F401
 def main():
     # You can use print statements as follows for debugging,
     # they'll be visible when running tests.
+    # Leaving a comment to test the double push
     print("Logs from your program will appear here!")
 
     # Uncomment this to pass the first stage
